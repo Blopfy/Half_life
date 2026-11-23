@@ -13,3 +13,43 @@
 | Week 2 | Tier 1 | 0h | 0 |
 
 _No entries logged yet._
+
+
+Day 1 | nov 21 2026
+
+Start of the first day. Created account on cadonshape. Followed the guide to make the circle and rect tool.
+Starting to understand how this 3d software is working I think.
+Expiremented with the rect and and circle tool. Worked with the dimension tool. Good practice so far. Think im getting the hang of this
+Made a base!! had to use the spline tool. spline is just kinda whatever shape you want type of tool so ig its like the adobe paintbrush 
+
+Having  issue with the plane tool, my line isn't protruding like its meant to in the guide... dk what the issue is
+Gdam the issue wasnt even an issue the photo was just in a diff angle god im stupid
+Protruding issue is fixed i guess. Basic track profile is somewhat complete i think.
+
+Ok so the way this 3d stuff works is think you have to make a sketch first thats 2d than you make a face. and finally after all of that once you have your sketch and face then you use sweep tool or like any other tool that can make it 3d.
+Sweeptool specifically uses a face and some sketch line edges to work tho..
+
+Fixed protruding thing and now working on track. Had some issues with understanding wtf was happening but now its making sense 
+Basic track profle is complete. so the main shape/face is complete and base is complete.
+
+track_profle.png
+rect_prac.png
+circle_prac.png
+started_software.png
+
+hours spent : 4 hours 
+
+Day 2 | nov 22 2026
+
+Worked on the track more. Got the sweep to finally render and work. Issue was paths work too close together. But fixed that pretty easily. Now gna work on more complex tracks.
+Started work on plink track now looking pretty good sketch 
+
+semi_complete_track_profile.png
+start_of_plink_track.png
+
+hours spent : 
+
+
+Day 3 | nov 23 2026
+
+Workled
