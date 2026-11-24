@@ -32,6 +32,8 @@ Sweeptool specifically uses a face and some sketch line edges to work tho..
 Fixed protruding thing and now working on track. Had some issues with understanding wtf was happening but now its making sense 
 Basic track profle is complete. so the main shape/face is complete and base is complete.
 
+tldr: practiced with cirlce and rect tool. spent time getting used to the softawre. understood plane tool better. 
+
 images/track_profle.png
 images/rect_prac.png
 images/circle_prac.png
@@ -50,6 +52,8 @@ Basic path somewhat done. Deffo understand how to do them better like the simple
 Plinko tract first half is somewhat done but I dont think I have the demensions set properly and think I could do some more creative designs for the obsticles, so far its just like square pillers and like triangular walls, but well see js need some more time. 
 
 Random issue in git for somereason cant properly push and sync files. DK why but gna try to fix it next session
+
+tldr: worked on track. fixed rendering issue. fixed git issue. worked on a plinko track
 
 images/semi_complete_track_profile.png
 images/start_of_plink_track.png
