@@ -32,10 +32,10 @@ Sweeptool specifically uses a face and some sketch line edges to work tho..
 Fixed protruding thing and now working on track. Had some issues with understanding wtf was happening but now its making sense 
 Basic track profle is complete. so the main shape/face is complete and base is complete.
 
-track_profle.png
-rect_prac.png
-circle_prac.png
-started_software.png
+images/track_profle.png
+images/rect_prac.png
+images/circle_prac.png
+images/started_software.png
 
 hours spent : 4 hours 
 
@@ -53,14 +53,17 @@ Random issue in git for somereason cant properly push and sync files. DK why but
 
 images/semi_complete_track_profile.png
 images/start_of_plink_track.png
-images/
-images/
+images/start_of_plink_track.png
+images/git_issue_2.png
+images/issues_with_git.png
+images/paths_issue.png
 
-hours spent : 
+hours spent : 4
 
-hours spent : 
 
 
 Day 3 | nov 23 2026
 
 Workled
+
+hours spent : 
