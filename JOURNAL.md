@@ -54,7 +54,6 @@ Random issue in git for somereason cant properly push and sync files. DK why but
 images/semi_complete_track_profile.png
 images/start_of_plink_track.png
 images/start_of_plink_track.png
-images/git_issue_2.png
 images/issues_with_git.png
 images/paths_issue.png
 
@@ -64,6 +63,20 @@ hours spent : 4
 
 Day 3 | nov 23 2026
 
-Workled
+Start of day 3. Worked more on the main track. Again had issues with the processing thingy cs the stupid half circle lines werent properly connecting so there was distance between the points and the 3d stuff wasnt rendering properly, but was able to fix that pretty easily. Added some more curves and lines to the design for it. Thinking about adding a more solid base and maybe stairs to it in the future.
 
-hours spent : 
+Worked on the plinko track aswell. Plinko Sketch is fully done. But I have no idea how im going to do the 3d stuff for it tho. Main issue for 3d on the sketch is how Im going to seperate it like adding depth is going to be the hard part but well see when we get to it.
+
+Faced previous git issue again, quickly resolved just had to run git rebase like last time. 
+
+tried something a bit diff for the nomrla cirlce and line sketch but had issues with the demensions going to see if I can do it properly next time. Might have to watch another tut for that one. Understanded the sweep tool better and extrude. Gna start work on the base tomorrow
+
+tldr: improved marble run sketch and made a plinko ball sketch 
+
+images/plinko_sketch.png
+images/track_continued.png
+images/track_work_again.png
+images/git_issue_2.png
+
+hours spent : 4 
+
