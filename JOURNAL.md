@@ -41,11 +41,22 @@ hours spent : 4 hours
 
 Day 2 | nov 22 2026
 
-Worked on the track more. Got the sweep to finally render and work. Issue was paths work too close together. But fixed that pretty easily. Now gna work on more complex tracks.
-Started work on plink track now looking pretty good sketch 
+Start of second day. Worked more on the track and just getting more familiar with cadonshape. Watched a few beginner tuts js to get a better hang of things, Seeing some improvement.
 
-semi_complete_track_profile.png
-start_of_plink_track.png
+Issues with sweep not rendering tho, sketch issue is pissing me off dont know whats wrong with it. Ok so the issue was that the sketch paths were too close together and the face that I chose had dimensions too wide that couldnt fit inbetween the lines.
+
+Basic path somewhat done. Deffo understand how to do them better like the simple line and turning ones are pretty easy, but I wanna start doing some more complex ones. Started work on the plinko tract. Having issues with paths not connecting properly. Just a simple allignment issue tho nothing serious.
+
+Plinko tract first half is somewhat done but I dont think I have the demensions set properly and think I could do some more creative designs for the obsticles, so far its just like square pillers and like triangular walls, but well see js need some more time. 
+
+Random issue in git for somereason cant properly push and sync files. DK why but gna try to fix it next session
+
+images/semi_complete_track_profile.png
+images/start_of_plink_track.png
+images/
+images/
+
+hours spent : 
 
 hours spent : 
 
